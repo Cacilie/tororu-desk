@@ -6,6 +6,7 @@ body {
   position: absolute;
   padding-left: 70px;
   bottom: 10px;
+  font-family: Helvetica, sans-serif, serif;
 }
 
 #root {
@@ -24,11 +25,11 @@ body {
 
 .textarea {
   box-sizing: border-box;
-  border: 1;
+  border: none;
   border-radius: 3px;
   resize: none;
   font-size: 20px;
-  line-height: 20px;
+  line-height: 30px;
   height: 100vh;
   overflow: auto;
   width: 100%;
